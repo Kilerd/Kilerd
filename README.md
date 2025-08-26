@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m looking for a remote job.
-
-Here are some ideas to get you started:
 - 🏃‍ catch me [when I am running](https://kilerd.github.io/running_page/)
 <!--
 - 🔭 I’m currently working on ...
